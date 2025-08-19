@@ -1,0 +1,17 @@
+# Ignore SQLite databases
+*.db
+
+# Ignore RStudio/Positron session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Ignore Quarto cache and output
+*_cache/
+*.html
+*.pdf
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
