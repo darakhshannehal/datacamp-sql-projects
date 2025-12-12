@@ -16,9 +16,11 @@ datacamp-sql-projects/
                   
 ```
 
-## Project Summary
+## Projects Overview
 
 | Project Title | SQL Concepts Used | R Libraries Used |
-|----------------------|---------------------------|----------------|
+|------------------------|------------------------------|------------------|
 | Analyzing Student's Mental Health | `WHERE`, `GROUP BY`, `AVG`, `ROUND`, `ORDER BY` | `DBI`, `RSQLite`, `readr` |
-| Analyzing Industry Carbon Emissions | `COUNT()`, `DISTINCT,` `SUM`, `ROUND`, `GROUP BY`, `ORDER BY`, `MAX()` | `-` |
+| Analyzing Industry Carbon Emissions | `COUNT()`, `DISTINCT`, `SUM`, `ROUND`, `GROUP BY`, `ORDER BY`, `MAX()` | `-` |
+| Analyze International Debt Statistics | `COUNT()`, `DISTINCT`, `SUM`, `GROUP BY`, `ORDER BY`, `LIMIT`, `MIN`, `WHERE` | `-` |
+| .... |  |  |
