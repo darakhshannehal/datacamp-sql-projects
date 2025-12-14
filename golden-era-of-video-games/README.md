@@ -45,6 +45,6 @@ This project analyzes video game critic and user scores as well as sales data fo
 
 ## Analysis Objectives
 
--   Find the **ten best-selling games**.\
--   Find the **ten years with the highest average critic score**, where at least four games were released (to ensure a good sample size).\
+-   Find the **ten best-selling games**.
+-   Find the **ten years with the highest average critic score**, where at least four games were released (to ensure a good sample size).
 -   Find the **years where critics and users broadly agreed** that the games released were highly rated. Specifically, return the years where the average critic score was over 9 OR the average user score was over 9.
