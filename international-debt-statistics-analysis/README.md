@@ -7,7 +7,7 @@ This project analyzes international debt data collected by The World Bank. The d
 The `international_debt.csv` file contains the following fields:
 
 | Column | Definition | Data Type |
-|------------------|-------------------------------------|------------------|
+|------------------|------------------------------------|------------------|
 | country_name | Name of the country | VARCHAR |
 | country_code | Code representing the country | VARCHAR |
 | indicator_name | Description of the debt indicator | VARCHAR |
