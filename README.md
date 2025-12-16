@@ -18,11 +18,12 @@ datacamp-sql-projects/
 
 ### Projects Overview
 
-| Project Title | SQL Concepts Used | R Libraries Used |
-|-----------------------|-------------------------------|-----------------|
-| Analyzing Student's Mental Health | `WHERE`, `GROUP BY`, `AVG()`, `ROUND()`, `ORDER BY` | `DBI`, `RSQLite`, `readr` |
-| Analyzing Industry Carbon Emissions | `COUNT()`, `DISTINCT`, `SUM`, `ROUND()`, `GROUP BY`, `ORDER BY`, `MAX()` | `-` |
-| Analyze International Debt Statistics | `COUNT()`, `DISTINCT`, `SUM`, `GROUP BY`, `ORDER BY`, `LIMIT`, `MIN`, `WHERE` | `-` |
-| Video Games Analysis – Golden Era | `INNER JOIN`, `COUNT()`, `AVG()`, `ROUND()`, `GROUP BY`, `HAVING`, `ORDER BY`, `LIMIT` | `-` |
-| Analyze EV Charging Habits | `COUNT(DISTINCT)`, `GROUP BY`, `ORDER BY`, `LIMIT`, `AVG()`, `HAVING`, `WHERE` | `-` |
-| .... |  |  |
+| Project Title | SQL Concepts Used |
+|--------------------|----------------------------------------------------|
+| Analyzing Student's Mental Health | Aggregations: `AVG()`, `ROUND()` • Filtering: `WHERE` • Grouping: `GROUP BY` • Ordering: `ORDER BY` |
+| Analyzing Industry Carbon Emissions | Aggregations: `COUNT()`, `SUM()`, `ROUND()`, `MAX()` • Filtering: `DISTINCT` • Grouping: `GROUP BY` • Ordering: `ORDER BY` |
+| Analyze International Debt Statistics | Aggregations: `COUNT()`, `SUM()`, `MIN()` • Filtering: `DISTINCT`, `WHERE` • Grouping: `GROUP BY` • Ordering: `ORDER BY` • Limiting: `LIMIT` |
+| Video Games Analysis – Golden Era | Joins: `INNER JOIN` • Aggregations: `COUNT()`, `AVG()`, `ROUND()` • Filtering: `HAVING` • Grouping: `GROUP BY` • Ordering: `ORDER BY` • Limiting: `LIMIT` |
+| Analyze EV Charging Habits | Aggregations: `COUNT(DISTINCT)`, `AVG()` • Filtering: `WHERE`, `HAVING` • Grouping: `GROUP BY` • Ordering: `ORDER BY` • Limiting: `LIMIT` |
+| Exploring Trends in American Baby Names | Aggregations: `SUM()`, `COUNT(DISTINCT)` • Conditional: `CASE` • Window functions: `RANK()` • Filtering: `HAVING` • Grouping: `GROUP BY` • Ordering: `ORDER BY` • Limiting: `LIMIT` |
+| ...... |  |
