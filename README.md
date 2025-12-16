@@ -19,7 +19,7 @@ datacamp-sql-projects/
 ### Projects Overview
 
 | Project Title | SQL Concepts Used |
-|--------------------|----------------------------------------------------|
+|-----------------------|----------------------------------------------------|
 | Analyzing Student's Mental Health | Aggregations: `AVG()`, `ROUND()` • Filtering: `WHERE` • Grouping: `GROUP BY` • Ordering: `ORDER BY` |
 | Analyzing Industry Carbon Emissions | Aggregations: `COUNT()`, `SUM()`, `ROUND()`, `MAX()` • Filtering: `DISTINCT` • Grouping: `GROUP BY` • Ordering: `ORDER BY` |
 | Analyze International Debt Statistics | Aggregations: `COUNT()`, `SUM()`, `MIN()` • Filtering: `DISTINCT`, `WHERE` • Grouping: `GROUP BY` • Ordering: `ORDER BY` • Limiting: `LIMIT` |
